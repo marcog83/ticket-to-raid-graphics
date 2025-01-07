@@ -140,3 +140,27 @@ En las afueras del pueblo se encuentran importantes conjuntos de Arte Rupestre L
 ## Villarluengo
 
 ## Villarroya de los Pinares
+
+# Monumentos naturales
+
+## Nacimiento del Río Pitarque
+El Nacimiento del Río Pitarque es más un “renacimiento”. El río nace en Fortanete y, en un determinado punto, se esconde para volver a aparecer en una gran surgencia que se conoce como “El Ojo de la Fuente”, y puede tener un caudal de hasta 1.500 l/s. El agua emerge convirtiendo un curso hasta aquí prácticamente seco en un río de caudal apreciable.
+
+El paraje merece una visita sobre todo en el deshielo de primavera, cuando sale agua por una roca llamada “la Chimenea”, un manantial de pared en torno al cual ha ido creciendo la roca caliza formando un edificio tobáceo que es atravesado por el agua cuando mana tras lluvias copiosas, y cuando las cascadas y el entorno del río están espectaculares. Merece la pena recorrer el camino hasta en Nacimiento y admirar también el vuelo de la numerosa colonia de buitres que habita en las escarpadas paredes sobre la ermita de la Virgen de la Peña.
+
+## Órganos de Montoro
+Los Órganos de Montoro constituyen un referente geológico dentro de la comarca del Maestrazgo y por su belleza y accesibilidad son muy populares en toda la comunidad autónoma.
+
+Los Órganos de Montoro son un milagro de la naturaleza. Son un magnífico ejemplo de la paciente erosión del agua, que ha tomado caprichosamente la forma de órgano con la que el hombre lo ha bautizado.  El río discurre paralelo a la dirección de las capas de calizas que, al final del tramo, gira bruscamente para atravesar los Órganos. Entonces, da lugar al inicio de un prolongado cañón fluvial que llega casi hasta el embalse de Santolea.
+
+Se trata de una formación caliza de capas casi verticales donde, fruto de la erosión, se han cincelado unas formas que recuerdan a los tubos de un órgano musical. En ellos ha quedado reflejada la evolución de la Cordillera Ibérica desde que esta zona se encontraba cubierta por un mar profundo en la era Secundaria, hasta los últimos retoques erosivos que continúan produciéndose en nuestros días.
+
+En definitiva, un bello paraje tan único que le vale el reconocimiento de Monumento Natural.
+
+## Puente Natural de Fonseca
+El Puente de Fonseca es un puente de origen natural que se encuentra en el municipio de Castellote. Se trata de una formación fluvio-cárstica, en concreto, una toba o edificio travertínico generada por el río Guadalope que al atravesarlo ha originado el túnel por el que actualmente discurre.
+
+Origen
+Los ríos que discurren por rocas calizas disuelven parte de la roca provocando que se concentre en él una gran cantidad de carbonato cálcico. Cuando se satura o por cambios en las condiciones ambientales, el agua no es capaz de llevar tanta carga, el compuesto químico precipita sobre el lecho del río y la vegetación y restos animales que lo cubren. Este carbonato va petrificando las plantas del río y sus orillas, que al morir constituyen la base sobre la que se desarrolla nueva vegetación. De esta manera, se va construyendo un edificio de toba, que es como se llama a este tipo de roca que va creciendo hacia arriba. Llega un momento en que es imposible crecer más y entonces el río se abre paso cortando la roca y dejando restos de la toba en las orillas. Excepcionalmente, si la toba ha crecido en voladizo formando una cascada y dejando un hueco a modo de cueva, el río busca su camino a través de ella, formando un túnel.
+
+En su interior se generan unas condiciones de humedad que configuran un microclima que contrasta con el del entorno. Muy cerca puedes encontrar abrigos con pinturas rupestres de Arte Levantino, declaradas Patrimonio de la Humanidad.
