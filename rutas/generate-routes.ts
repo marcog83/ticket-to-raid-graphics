@@ -34,7 +34,7 @@ const {data}=parse<Route>(csvInput,{header:true});
 
 data.forEach(route=>{
      // Read the SVG template
-     const fileName=parseInt(route.weight)>=16?longTemplateSvgPath:templateSvgPath;
+     const fileName=parseInt(route.weight)>=19?longTemplateSvgPath:templateSvgPath;
      const svgTemplate = fs.readFileSync(fileName, 'utf-8');
 
      // Parse the SVG into a DOM
