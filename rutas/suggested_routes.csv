@@ -1,47 +1,47 @@
 id,weight,sourceName,destName
-429,5,Fortanete,Miravete
 449,5,Cantavieja,Olocau del Rey
-724,5,Mirambel,Nacimiento del Rio Bordon
+874,5,La Todolella,Las Parras
 926,5,Forcall,Salto del Huergo
+1133,5,Luco,Las cuevas de cañart
 100,5,Ejulve,Pitarque
 554,6,Valdelinares,Villarroya de los Pinares
 564,6,Les Albaredes,Tronchon
+1116,6,Morron,La Cuba
 203,6,Pitarque,Fortanete
 213,6,Pitarque,Tronchon
-388,6,Puerto Cuarto Pelado,Allepuz
 450,7,Cantavieja,Bordon
 491,7,Iglesuela de cid,Olocau del Rey
+577,7,Les Albaredes,Torremocha
 720,7,Mirambel,Zorita
-1066,7,Bordon,Seno
-145,7,Organo de Montoro,Miravete
+980,7,Zorita,Las Planas
 408,8,Fortanete,Nacimiento del Rio Bordon
 474,8,Cantavieja,Los Baños
 675,8,Linares de Mora,Allepuz
 708,8,Mosqueruela,Villarroya de los Pinares
 955,8,Saltapin,Salto del Huergo
 1092,8,Nacimiento del Rio Bordon,Montoro mezquita
+1224,8,Aguaviva,Los Baños
+1249,8,Puente Fonseca,La Cuba
 32,8,Gargallo,Castellote
-49,8,Gargallo,Pitarque
 198,8,Villarluengo,Allepuz
 306,8,Cañada,Mirambel
-350,8,Puerto Cuarto Pelado,Linares de Mora
-383,8,Puerto Cuarto Pelado,Nacimiento de Las Truchas
 515,9,Iglesuela de cid,Ermita del Carmen
+106,9,Organo de Montoro,Iglesuela de cid
 775,10,Muela Monchen,Las Parras
-900,10,Cinctorres,Castellote
+839,10,La Mata,Molinos
+899,10,Cinctorres,Las cuevas de cañart
 131,10,Organo de Montoro,Salto del Huergo
-234,10,Pitarque,Castellote
 337,10,Cañada,Nacimiento de Las Truchas
 901,11,Cinctorres,Seno
 52,11,Gargallo,Puerto Cuarto Pelado
+630,12,Portel de Morella,Puerto de Fortanete
 1075,12,Bordon,Miravete
-2,12,Gargallo,Cantavieja
+171,13,Villarluengo,Morella
 529,19,Valdelinares,Saltapin
 700,19,Mosqueruela,Seno
 1024,19,Morella,Miravete
 1219,19,Aguaviva,Alto del Hornillo
 662,20,Linares de Mora,Castellote
 1207,21,Rio Aguaviva,Allepuz
-1224,8,Aguaviva,Los Baños
-106,9,Organo de Montoro,Iglesuela de cid
-171,13,Villarluengo,Morella
+280,8,Rio Pitarque,Ladruñan
+103,8,Ejulve,Puerto Cuarto Pelado
