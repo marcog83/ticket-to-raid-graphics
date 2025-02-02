@@ -110,7 +110,6 @@ Desde Dos Torres de Mercader salen otras rutas que pueden complementar tu visita
 
 Salen de la localidad otras rutas que llevan a Ladruñán y Cuevas de Cañart, o a zonas de la localidad como La Falaguera, las trincheras republicanas y las fuentes de la Teja y Vicenta. Puedes buscar los tracks de todas ellas en wikiloc.
 
-Puedes visitar Dos Torres de Mercader en 360º aquí!
 
 ### Ladruñán
 Situado a una altitud de 735 metros, cuenta con unos 50 habitantes repartidos entre el núcleo urbano y sus pequeños barrios y masías de La Algecira, Crespol, el Higueral y el Latonar.
@@ -120,22 +119,104 @@ En Ladruñán podemos destacar la iglesia de Santa Bárbara, obra barroca del si
 En las afueras del pueblo se encuentran importantes conjuntos de Arte Rupestre Levantino (Abrigo del Arquero, Friso abierto del Pudial, Abrigo del Torico, Abrigo de la Vacada y Abrigo del Ángel) y una cueva importante en la historia, la Cueva Cambriles, importante refugio durante la Guerra Civil.
 
 ## Cuevas de Cañart
+Enclavado en un paraje natural de singular belleza, el casco urbano de Las Cuevas de Cañart, Entidad Local Menor vinculada al municipio de Castellote, puede considerarse uno de los conjuntos arquitectónicos más atractivos de toda la provincia. El lugar aparece documentado por vez primera en 1187 en que se cita a Arnalt de las Cuevas. Se llamaba Cuevas entre 1495 y 1609 apareciendo más tarde como Cuevas de Cañart, a partir de 1646 aproximadamente. Perteneció a la encomienda del Temple y a la del Hospital, en Castellote.
+
+Entre los edificios más destacados de su núcleo urbano encontramos la iglesia de San Pedro Apóstol. De fábrica barroca de la segunda mitad del siglo XVIII, reúne los rasgos típicos de los templos de la llamada “estela pilarista”. Estos significa que alberga la casa consistorial, con lonja con dos arcos rebajados; diversas casonas, entre las que destacan la Casa Arellano y la Casa Moliner, con su galería aragonesa, que es una casa rural.
+
+El municipio conserva los restos de dos conventos, el Convento de la Purísima Concepción y el Convento de los monjes Servitas. El primero con iglesia barroca del siglo XVII y el segundo se encuentra a las afueras de la población, del que se conserva en estado de ruina su monumental iglesia. Actualmente se están consolidando sus elementos principales y se está ultimando un centro de interpretación anexo para acceder a su interior y subir a la espadaña.
+
+Además, destaca en la localidad la ermita de San Blas, de finales del siglo XVII. Este edificio alberga el Centro de Interpretación del patrimonio de las Cuevas. También encontramos la ermita de los Pueyos y restos del Castillo; la Capilla del Pilar, concebida a modo de gran hornacina, el Portal de Marzo, único resto conservado del recinto murado, el antiguo horno; y los arcos y pasajes de la Calle Mayor y del “barrio judío”. Fuera ya de la población destaca el conjunto de fuente y lavadero, de camino al convento Servita.
+
+Es de excursión obligada la visita a la nevera, las tumbas medievales, el chorro de San Juan y la ermita de San Juan, todo en el mismo camino.
 
 ## Fortanete
+La villa de Fortanete está ubicada a los pies de una colina, a 1353 metros de altitud, en el centro de la cuenca de la Rambla del Mal Burgo, cabecera del río Pitarque. Sus increíbles vistas se encuentran rodeadas por dos robustas alineaciones montañosas: la sierra de la Cañada y las sierras de Tarrascón-Las Lastras. Su entorno natural está dominado principalmente por altos y frescos pastizales y, sobre todo, por los extensos y bien cuidados bosques de pino albar.
+
+Fortanete es considerado como «La Joya Oculta del Maestrazgo«. Este pequeño pueblo, antaño villa bien poblada y próspera, esconde muchos rincones que descubrir más allá de su imponente patrimonio natural.
+
+La villa, que en origen se enclavaba al amparo del Castillo y de su recinto amurallado, se ha ido desplazando poco a poco a la parte baja de la ladera. El núcleo monumental se sitúa en torno a la iglesia de la Purificación, un templo barroco presidido por su espectacular torre de sillería. Junto a su cabecera está el ayuntamiento, edificio construido en 1520 y al que en 1588 se le abrió una lonja de tres arcos y en 1798 se le pintaron los grandes escudos de la fachada. Muy cerca de ambos edificios hay varias casonas. Destacarían la de los Duques de Medinacelli (1578), los Marqueses de Villasegura (siglo XVI), los Duques (siglo XVI), los Daudén (siglo XVII), etc. Un poco más alejados están el antiguo horno y el puente (siglo XVI). Puedes visitar la plaza España en 360º aquí!
+
+Pero también encontramos numerosos edificios de interés dispersos por el resto del municipio. Por ejemplo, el Castillo del Cid (siglos XI-XII), la fortificada masía de la Torre. También varias ermitas como las de Loreto (1648), Santa Bárbara (1715), San Cristóbal (hacia 1500) y el Buen Suceso, esta última vinculada al culto en las masías.
+
+Si de algo puede presumir Fortanete es, sobre todo, de su paisaje. Quien quiera disfrutar a fondo de él no tiene más que ponerse las zapatillas deportivas y recorrer con calma los tramos del sendero GR-8. Este sendero que cruza su término, proveniente de Cantavieja y en dirección a Valdelinares. Y es que está plagado de barrancos y sierras y, en primavera, de extensos campos de rojas amapolas destacando sobre el verde del cereal.
 
 ## La Iglesuela del Cid
+La Villa de la Iglesuela está ubicada a 1227 metros sobre el nivel del mar a los pies de uno de los múltiples morrones que jalonan la comarca. La historia de la localidad se inicia hace varios milenios, con grupos humanos recorriendo estas tierras y dejando sus vestigios en varios yacimientos del entorno. Así, destaca el yacimiento íbero-romano del Morrón del Cid, donde se encuentran restos de la muralla y un gran aljibe. También se conservan diversas inscripciones y un monumento funerario.
+
+Algunos topónimos del municipio, una leyenda, e incluso su propio nombre, recuerdan el paso del Cid Campeador por el municipio. La primera referencia a la localidad se encuentra en un documento de donación de 1204 de Pedro II de Aragón a Gascón de Castellot. En 1212 aparecerá ya citada dentro de los límites de la Bailía de Cantavieja y se le otorgará la Carta de población en 1242 por parte de la Orden del Temple. En 1317, al ser disuelta esta y las demás poblaciones pasaron a depender de la Orden Hospitalaria de San Juan.
+
+En los siglos XVI y XVII las familias nobles, enriquecidas con el comercio de la lana, construyen numerosos palacios y casas señoriales de estilo renacentista. Esta constituye siendo esta la época de mayor esplendor para la localidad y gracias a la cual encontramos edificios tan emblemáticos como la Casa Aliaga.
+
+Durante las Guerras Carlistas del siglo XIX, La Iglesuela del Cid también se ve afectada por los enfrentamientos entre liberales y carlistas. Un momento importante para la Villa es la visita del pretendiente Don Carlos V al Maestrazgo, que se alojó en la Casa Blinque durante ocho días a principios de agosto de 1837. Allí, además de reponer fuerzas, dictó numerosas medidas de gobierno.
+
+### El imponente patrimonio de La Iglesuela del Cid
+El casco urbano está presidido por la Torre de los Nublos (siglo XIII), antigua torre de homenaje del castillo templario adosado a las Casas Consistoriales (Siglo XVI), este edificio se caracteriza por sus singulares ventanas y por su lonja de arcos apuntados. Junto a él se ubica la Iglesia de la Purificación, antiguo templo medieval con profunda reforma barroca. Estos dos edificios junto con las casonas Blinque y Matutano-Dauden delimitan la singular plaza de la Iglesia.
+
+Además de esta magnífica plaza, La Iglesuela cuenta con números edificios dignos de reseñar. Destacan el conjunto de casas solariegas (los Guijarro, los Aliaga, los Dauden, los Matutano, etc.), las murallas y el Portal de San Pablo. Además, también están la fuente, los puentes y sus numerosas ermitas. De estas últimas llama la atención el Santuario de la Virgen del Cid, a unos 3 kilómetros del casco urbano, junto a una ciudad ibero-romana.
+
+Todo este patrimonio, reflejo de un pasado de bonanza económica, sirvió para que la Villa fuese declarada Conjunto Histórico Artístico en 1982. Pero, si por algo destaca esta localidad, es por su impresionante paisaje de arquitectura en Piedra Seca, uno de los mejores de todo Aragón y de Europa. Está declarado Bien de Interés Cultural y está formado por unas 150 casetas rodeadas por decenas de kilómetros de tapias, caminos y azagadores. No es de extrañar que se haya incluido en la lista de **Pueblos Mágicos de España**.
 
 ## La Cuba
+El pequeño municipio de La Cuba, de 43 habitantes, está situado a 882 metros sobre el nivel del mar en los límites de la provincia de Teruel con la de Castellón.
+
+### Introducción histórica
+Reconquistada la población por el rey Alfonso II, pasó a manos de la Orden del Temple entrando a formar parte de la Baylía de Cantavieja. Recibió Carta de Población en 1241 a favor de treinta pobladores cabezas de familia. En ella se estipulaban los cauces de la relación entre la Orden y los vecinos que poblarían La Cuba. Tras la disolución del Temple, la localidad, junto con toda la Baylía, pasa a depender de la Orden de San Juan de Jerusalén, a la que perteneció durante 500 años. En el siglo XIX sufrió los avatares de las Guerras Carlistas en estas tierras y, ya en el siglo XX, la Guerra Civil. A principios del siglo XX el término de La Cuba tenía 8 masías ubicadas junto a las cabañas de ganado que, procedentes del Reino de Valencia, penetraban en el Maestrazgo.
+
+### Interesante patrimonio
+La Cuba conserva un conjunto arquitectónico interesante, pudiendo destacar los edificios encalados de media altura situados en la Calle de Enmedio, la iglesia parroquial de San Miguel, edificación barroca del siglo XVIII, y la Casa Consistorial. En las inmediaciones de este monumento encontramos el Pellerich, un gran bloque de piedra ortogonal que era usado para hacer justicia en el pasado. Asimismo, indicar que en las afueras de la localidad se encuentra la ermita de San Cristóbal, levantada en el siglo XVI.
+
+### La Cuba hoy en día
+La economía actual del municipio se sustenta en la ganadería y la agricultura, pero antaño, la mayor parte de su población se dedicaba al trabajo del esparto, por lo cual eran conocidos en toda la zona. Esta artesanía era de vital importancia porque con esparto se confeccionaban todo tipo de útiles para el trabajo y la vida cotidiana. Esta tradición artesana se ha recogido en el Centro de Interpretación del Esparto de la Cuba.
 
 ## Mirambel
+Frecuentemente denominada “una joya entre murallas”, la villa de Mirambel está incluida en la lista de “Pueblos más Bonitos de España”, es Conjunto Histórico Artístico y fue galardonada con el premio Europa Nostra.
+
+### La belleza de Mirambel
+Su recinto amurallado es uno de los mejor conservados de la provincia de Teruel. Ha logrado conservar los cinco portales que han llegado hasta nuestros días, los cuatro torreones y el Castillo-Palacio, que cuenta con interesantes fases templaria y sanjuanista.
+
+También se puede encontrar el mejor conjunto de casas solariegas de la Edad Moderna de la Comarca. Destacan por encima del resto las casonas de los Aliaga y de los Castellot, sin desmerecer la de los Julianes o la de los Barceló. Eso sin desmerecer las casas de piedra con excelentes rejerías y carpinterías. Otros edificios remarcables de la Villa son las Casas Consistoriales, con su típica lonja en esquina, el Convento de las Agustinas, que comprende la Iglesia de Santa Catalina y las famosas celosías del Portal de las Monjas, así como la Iglesia de Santa Margarita.
+
+### Secretos de la Villa
+Mirambel ha servido de inspiración a numerosos artistas y escritores. En 1931 Pio Baroja escribió “La venta de Mirambel” con las historias y leyendas que recogió en su estancia en la Villa. Algo similar ocurrió con Antón García Abril, que encontró inspiración en el municipio para componer su obra para piano “Preludios de Mirambel”.
+
+El mundo del cine también se ha visto atraído por esta pequeña población, en 1986 la localidad se transformó por primera vez en un plató para rodar varias escenas de la serie “Clase Media”. Esta película está protagonizada por Charo Lopez, Antonio Resines y Antonio Ferrandiz. Diez años después se rodaron escenas de “En Brazos de una mujer madura” en la ermita de la Torre de Santana, una masía ubicada en el término municipal. Finalmente, logró alcanzar una gran notoriedad con “Tierra y Libertad” (1994). Esta película transformó Mirambel durante el mes y medio que duró la grabación, dejando una gran huella en todos sus habitantes. Actualmente, pueden recorrerse los escenarios de la película gracias a esta ruta.
 
 ## Miravete de la Sierra
+Miravete de la Sierra está situada en el curso del río Guadalope, a escasos 10 kilómetros de su nacimiento y a una altitud de 1218 metros. Miravete se asienta al pie del peñasco en el que una vez se ubicó el castillo.
+
+### Su historia
+Tanto el nombre de la población, que aparece como Miravet o Miraveto en la documentación de los siglos XIII y XIV, como los hallazgos arqueológicos más antiguos realizados en ella, indican su origen musulmán. Tras su reconquista, realizada probablemente por Miguel de Santa Cruz, Miravete va a pertenecer a distintos propietarios.
+
+El rey Alfonso II de Aragón en 1175 transfiere Miravete y sus términos a la Orden Militar de Montegaudio, que en 1188 se integra en la Orden del Hospital del Santo Redentor de Teruel. En 1196 el mismo rey ordena que los bienes de esa Orden pasen a la del Temple, que regirá los destinos de Miravete por poco tiempo, ya que al menos desde 1217 doña Sancha, hija de Miguel de Santa Cruz, y su esposo Guillermo de Mendoza aparecen como señores seculares de la villa. Posteriormente, en agosto de 1220 los señores de Miravete empeñaron temporalmente la villa y su castillo a los comendadores de la Orden del Hospital de San Juan, en Aliaga y Añón, por 400 maravedíes alfonsíes de oro.
+
+En el año 1273 Guillerma Ximénez, señora del lugar, vendió sus derechos sobre Miravete a Pedro Garcés, obispo de Zaragoza, por 1.350 maravedíes de oro. Desde ese momento Miravete dejará de pertenecer a un señor secular y pasará a ser villa de señorío del arzobispo de Zaragoza. Este, desde 1279, impone al concejo una pecha que debía satisfacer anualmente. A cambio, sus habitantes disfrutaban de diversos privilegios y franquicias en cuanto al pasto de sus ganados por tierras de Aliaga y en el reino de Valencia. Esta situación permaneció inalterable hasta la liquidación del régimen señorial en el siglo XIX.
+
+### Patrimonio de Miravete de la Sierra
+Los edificios más significativos se encuentran en la parte baja de la población, en torno a dos espacios singulares. Uno de ellos es la Plaza de la Iglesia, cuya estructura cerrada y porticada recuerda a un claustro. Está delimitada por las Casas Consistoriales del siglo XVI, con una lonja en forma de L; y por la iglesia gótico-renacentista de la Virgen de las Nieves, de 1574.
+
+En contraste con el anterior espacio, la Plaza Mayor es irregular y abierta al río Guadalope. En ella se encuentra la lonja, el horno, el puente del siglo XVI, una de las estampas más fotografiadas de la localidad, y la Casa Rectoral, hoy convertida en alojamiento. El pueblo tiene otros rincones y monumentos de interés, como la magnífica cruz de término del siglo XV, única conservada en toda la comarca. También están la ermita barroca de San Cristóbal, de 1779, el Molino harinero, rehabilitado como Centro de Interpretación del ciclo del Pan, y diversas casas de la Calle Baja y del barrio San Cristóbal.
+
+### Reconocimientos
+El encanto de la localidad queda reflejado con tres declaraciones de Bien de Interés Cultural. En 1983 se inició la declaración de Conjunto Histórico Artístico para la Plaza Mayor y la Plaza de la Iglesia, encontrándose actualmente incoado su entorno. Finalmente, en 2001 se dio esa categoría, como monumento, a la iglesia de Ntra. Sra. de las Nieves.
 
 ## Molinos
+El municipio de Molinos, precursor del Parque Cultural del Maestrazgo, se encuentra en el noroeste de la comarca, a 838 metros de altitud. Se ubica al pie del Poyo Ambasaguas, emplazamiento en el que se asentó la antigua fortaleza calatrava y es que Molinos perteneció a la encomienda calatrava de Alcañiz.
+
+### Y comienza la visita
+De su núcleo monumental cabe destacar dos plazas porticadas y contiguas, la Plaza Mayor y la del Ayuntamiento. Allí se sitúa la iglesia de Nuestra Señora de las Nieves, una de las más singulares del siglo XV en la provincia de Teruel. Enfrente encontramos el ayuntamiento, con su típica lonja, adosado a un antiguo torreón con salas abovedadas y un pequeño aljibe.
+
+La Torre-Campanario o del Reloj no está junto a la iglesia, sino en la parte alta del Poyo Ambasaguas, al igual que la porticada ermita de la Soledad y un pequeño Portal asociado a la antigua fortaleza calatrava. El Portal de San Roque, así llamado por la capilla abierta en su parte superior, se sitúa al otro lado de la villa y corresponde a un recinto murado del que no se conservan más restos. El conjunto se completa con la ermita de San Nicolás, fábrica barroca del siglo XVIII, y varias casonas, como el Mesón de la Villa, Casa del Moro, etc.
+
+En el núcleo urbano hay varios espacios expositivos. Cabe destacar el situado en la planta superior del ayuntamiento, la “Sala de Eleuterio Blasco Ferrer”, que muestra la colección de obras del escultor que le da nombre.
+
+### Tesoros de la naturaleza
+En la entrada a la villa se encuentra el Salto de San Nicolás, una imponente caída de agua que parece surgir de las mismas casas, algo nada habitual en el interior de una localidad, y que solo se puede salvar gracias a un bello puente de sillería, colgado entre dos riscos y protegido por la torre de la Peña del Castillo, de la que se conservan escasos restos.
+
+Pero Molinos guarda un tesoro natural. Uno de los principales atractivos de su término municipal son las Grutas de Cristal, un gran conjunto de formaciones kársticas, únicas en Europa, donde abundan sorprendentes estalactitas y estalagmitas. La cavidad presenta dos salas: Sala de los Cristales y Sala Marina.
 
 ## Pitarque
 
-## Tronchon
+## Tronchón
 
 ## Villarluengo
 

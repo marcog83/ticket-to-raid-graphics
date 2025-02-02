@@ -17,7 +17,7 @@ const longTemplateSvgPath = './ticket-to-ride-card-long-template.svg'; // Path t
 const csvFilePath = './rutas/suggested_routes.csv'; // Path to your CSV file
 const outputDir = 'output_cards'; // Directory to save output SVGs/PNGs
 const inkscapePath = 'inkscape'; // Ensure Inkscape CLI is installed and available
-const referenceFilePath = 'reference-card.png'; // Path to the reference file
+const referenceFilePath = 'ticket-to-ride-reference.png'; // Path to the reference file
 
 // Ensure output directory exists
 if (!fs.existsSync(outputDir)) {

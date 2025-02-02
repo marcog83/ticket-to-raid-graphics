@@ -5,7 +5,8 @@
         "typescript": "5.7.2"
     },
     "scripts": {
-        "generate-cards": "npx tsx ./rutas/generate"
+        "generate": "npx tsx ./rutas/generate",
+        "to-pdf": "npx tsx ./rutas/update"
     },
     "devDependencies": {
         "@total-typescript/tsconfig": "^1.0.4",
